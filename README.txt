@@ -7,3 +7,7 @@ Contains two folders: one with all the main figures and one with the supplementa
 Each Folder contains a PDF of the figure, the data and R code used to produce the figure, and the R code detailing how the statistical analyses were conducted.
 
 Note that figures 3, 4, and S2 were produced with Prism by Graphpad (v8) using the provided data.
+
+This code is associated with the following BCO-DMO datasets:
+https://www.bco-dmo.org/dataset/858036
+https://www.bco-dmo.org/dataset/858081
